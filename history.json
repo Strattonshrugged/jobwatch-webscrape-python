@@ -34,6 +34,7 @@
   ],
   "https://careers.paramount.com/go/Pluto/8710500/": [],
   "https://careers.paramount.com/go/Showtime/8710300/": [
+    "Lead Software Engineer (Java) in Test",
     "Lead Software Test Engineer"
   ],
   "https://www.amcnetworks.com/careers/": [],
@@ -49,6 +50,7 @@
   ],
   "https://jobs.lionsgate.com/": [],
   "https://careers.paramount.com/go/Paramount+/8717600/": [
+    "Lead Software Engineer (Java) in Test",
     "Lead Software Test Engineer",
     "Senior Software Engineer (Java) in Test"
   ],
@@ -67,14 +69,10 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "AI Quality & Test Automation Engineer",
-    "AI Quality & Test Automation Engineer 200680981-0836",
     "Apple Vision Pro is a spatial computer that blends digital content with your physical space, transforming how audiences experience movies, concerts, and live sports. Apple's Vision Products Group (VPG) is seeking a Software Quality Engineer to champion quality on Spatial computing devices for live and on-demand media experiences on visionOS platforms.",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
     "Software Quality Engineer, Media Applications & Live Experiences",
-    "Software Quality Engineer, Media Applications & Live Experiences 200689627-1697",
-    "The Apps Services team elevates the development and delivery process that ships code to billions of users worldwide. We build tools and systems that drive efficiency across every stage of the pipeline \u2014 from commit to customer. As an AI Quality & Test Automation Engineer, you'll be at the forefront of applying AI to proactively hunt edge cases, surface anomalies, and raise the quality bar for AI-powered features relied upon by teams across the organization.",
-    "The people at Apple create products that change the world, and the products we make inspire others to do the same. The Apple Services Business Partnerships team is looking for an experienced and highly motivated leader to drive partnerships, strategy and go-to-market activities for Apple Business and key consumer category partners and brands. In this role, you will help define how business partners bring their offerings to our platform, how customers discover and select them, and how we measure and maintain exceptional quality at scale. The person we are looking for should have deep experie..."
+    "Software Quality Engineer, Media Applications & Live Experiences 200689627-1697"
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
@@ -190,7 +188,6 @@
   "https://searchcareers.caci.com/careers?query=&location=Washington": [
     "Automation Engineer/Tester - Remote (Any State)",
     "HCM Test Automation & Quality Engineer - Remote (Any State)",
-    "Quality Assurance Representative/Port Engineer - Vancouver, WA, US",
     "Quality Engineer (U.S. Army Program Office) - Remote (Any State)",
     "SAP Software Test Engineer (FI/CO) - Remote (Any State)",
     "SAP Software Test Engineer - 999 REMOTE",
