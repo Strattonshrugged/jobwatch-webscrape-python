@@ -22,7 +22,10 @@
   "https://cerence.wd5.myworkdayjobs.com/Cerence": [],
   "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers": [],
   "https://careers.wbd.com/global/en/search-results": [
-    "In this role, you will be responsible for creating high-quality animation content for real-time gameplay and cinematics for our games, thereby helping to bring the project\u2019s vision to life. Your pr..."
+    "In this role, you will be responsible for creating high-quality animation content for real-time gameplay and cinematics for our games, thereby helping to bring the project\u2019s vision to life. Your pr...",
+    "Save Software Developer in Test II R000106320",
+    "Software Developer in Test II",
+    "Testing Center of Excellence (TCoE) is the frontline owner of quality engineering process for Consumer Digital + Platform organization. We provide standardized process and tools to enhance the quality..."
   ],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
@@ -50,30 +53,37 @@
     "Software Engineer (Java) in Test"
   ],
   "https://apply.workable.com/multimediallc/": [
-    "Manual QA Engineer - Multi Media, LLC",
-    "Senior Software Engineer in Test - Multi Media, LLC"
+    "Manual QA Engineer - Multi Media, LLC"
   ],
   "https://careers.versantmedia.com/find-a-job": [],
   "https://jobs.netflix.com/careers/engineering": [
     "Our Infrastructure Engineering team provides the backbone that powers Netflix's global scale and operations across all business verticals. We build and operate highly reliable, efficient, and secure infrastructure and platforms that drive business growth and innovation, balancing agility and velocity with appropriate risk management. Our Open Connect network ensures exceptional streaming quality and reliability, cost efficiency, and competitive advantage in content delivery. Our opinionated platforms for cloud, development, data, experimentation, and AI deliver intuitive experiences, streamlined workflows, and intelligent automation that continuously accelerate the productivity of Netflix's technical talent and enhance operational excellence. Our comprehensive security, privacy, and assurance capabilities safeguard our systems, data, and members across workforce, products, and technical systems (infrastructure, platforms, and applications) through preventative controls, identity and access management, threat detection and response, privacy engineering, and enterprise risk governance."
   ],
   "https://www.amazon.jobs/content/en/teams/amazon-entertainment/prime-video": [],
-  "https://www.brightcove.com/en/company/careers/": [],
+  "https://www.brightcove.com/en/company/careers/": [
+    "See Brightcove\u2019s latest features in action."
+  ],
   "https://www.mux.com/jobs": [],
   "https://careers.dolby.com/viewalljobs/": [],
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "Apple Services sits at the heart of Apple's most beloved experiences, a place where the culture of curiosity, creativity, and relentless attention to detail that defines Apple is channelled into shipping features that reach hundreds of millions of people every day. We're looking for a Tools and Automation Engineer to partner with our Engineering and Stakeholder teams to build the automation, tooling, and testing infrastructure behind complex, customer-facing machine learning features under demanding timelines. Bonus points for experience supporting new product introductions. This is not a t...",
     "Director, Evaluation and Quality Assurance, Services Special Projects",
     "Director, Evaluation and Quality Assurance, Services Special Projects 200688194-0836",
+    "Ignite your passion for quality and innovation! We're seeking a visionary Tools and Automation Quality Engineer to architect the future of excellence for Apple Maps. You will dive deep into our complex, multi-platform ecosystem (iOS, macOS, watchOS, visionOS and CarPlay), building cutting-edge automation frameworks, pioneering AI-driven quality practices, and establishing robust observability to proactively safeguard the experience for millions of users worldwide.",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
     "Machine Learning Engineer, Evaluation and Quality, Creativity Apps",
     "Machine Learning Engineer, Evaluation and Quality, Creativity Apps 200691707",
-    "Media Intelligence Quality Engineer",
-    "Media Intelligence Quality Engineer 200691897-0215",
+    "Senior Quality Engineer - Apple Maps Performance",
+    "Senior Quality Engineer - Apple Maps Performance 200692095-0836",
+    "Software Development Engineer in Test (SDET), Creative Apps",
+    "Software Development Engineer in Test (SDET), Creative Apps 200692290-0836",
+    "Software Development Engineer in Test (SDET), Creative Apps 200692290-3543",
+    "Software Development Engineer in Test \u2013 Apps, Identity Management Services",
+    "Software Development Engineer in Test \u2013 Apps, Identity Management Services 200692315-3956",
     "The Creativity Apps team is looking for a Machine Learning Engineer focused on the quality and evaluation of ML models and AI features in our creativity applications. You will define how we measure whether the product and AI features are good enough to ship: designing the evaluation strategy and metrics, building the datasets and infrastructure behind them,...",
-    "We are looking for a Director to build and lead the evaluation and quality assurance function for one of our most ambitious multi-year engineering initiatives. This is a true 0-to-1, first-key-hire role: There is no existing team, tooling, or process to inherit. You will define how we measure quality across an entire product end to end, build the automation and evaluation infrastructure to do it at scale (or borrow other teams' infrastructure), and build and lead the organization that"
+    "We are looking for a Director to build and lead the evaluation and quality assurance function for one of our most ambitious multi-year engineering initiatives. This is a true 0-to-1, first-key-hire role: There is no existing team, tooling, or process to inherit. You will define how we measure quality across an entire product end to end, build the automation and evaluation infrastructure to do it at scale (or borrow other teams' infrastructure), and build and lead the organization that",
+    "What if your automation code was the last line of defense before a feature reached a billion devices? This role sits at the convergence of engineering rigor and product quality across Apple's iOS and macOS platforms \u2014 where the frameworks you build determine whether releases ship with confidence or not. The team operates end-to-end across the SDLC, and the bar for what 'good' looks like here resets what you thought quality engineering could be."
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
@@ -97,6 +107,7 @@
     "Graduates (7)",
     "Latest news and resources",
     "Machine Learning Engineer, 2027 Graduate U.S.",
+    "Principal Technical Program Manager- Agent Quality and API Governance",
     "Security Engineer, 2027 Graduate U.S.",
     "Security Testing Engineer - Penetration Tester",
     "Senior Machine Learning Engineer, AI-Native Evaluation & Search",
@@ -198,7 +209,6 @@
   "https://www.accenture.com/us-en/careers/jobsearch": [],
   "https://amentum.dejobs.org/jobs?q=&location=Washington": [
     "Deputy Quality Manager",
-    "Quality Control Inspector II - NCR",
     "Site Quality Manager"
   ],
   "https://careers.akima.com/jobs?lang=en-us&location=Joint%20Base%20Lewis%20McChord%2C%20WA": [],
