@@ -68,8 +68,6 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "Director, Evaluation and Quality Assurance, Services Special Projects",
-    "Director, Evaluation and Quality Assurance, Services Special Projects 200688194-0836",
     "Ignite your passion for quality and innovation! We're seeking a visionary Tools and Automation Quality Engineer to architect the future of excellence for Apple Maps. You will dive deep into our complex, multi-platform ecosystem (iOS, macOS, watchOS, visionOS and CarPlay), building cutting-edge automation frameworks, pioneering AI-driven quality practices, and establishing robust observability to proactively safeguard the experience for millions of users worldwide.",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
     "Machine Learning Engineer, Evaluation and Quality, Creativity Apps",
@@ -82,7 +80,6 @@
     "Software Development Engineer in Test \u2013 Apps, Identity Management Services",
     "Software Development Engineer in Test \u2013 Apps, Identity Management Services 200692315-3956",
     "The Creativity Apps team is looking for a Machine Learning Engineer focused on the quality and evaluation of ML models and AI features in our creativity applications. You will define how we measure whether the product and AI features are good enough to ship: designing the evaluation strategy and metrics, building the datasets and infrastructure behind them,...",
-    "We are looking for a Director to build and lead the evaluation and quality assurance function for one of our most ambitious multi-year engineering initiatives. This is a true 0-to-1, first-key-hire role: There is no existing team, tooling, or process to inherit. You will define how we measure quality across an entire product end to end, build the automation and evaluation infrastructure to do it at scale (or borrow other teams' infrastructure), and build and lead the organization that",
     "What if your automation code was the last line of defense before a feature reached a billion devices? This role sits at the convergence of engineering rigor and product quality across Apple's iOS and macOS platforms \u2014 where the frameworks you build determine whether releases ship with confidence or not. The team operates end-to-end across the SDLC, and the bar for what 'good' looks like here resets what you thought quality engineering could be."
   ],
   "https://discord.com/careers": [
@@ -207,10 +204,7 @@
     "ServiceNow Tester - Remote (Any State)"
   ],
   "https://www.accenture.com/us-en/careers/jobsearch": [],
-  "https://amentum.dejobs.org/jobs?q=&location=Washington": [
-    "Deputy Quality Manager",
-    "Site Quality Manager"
-  ],
+  "https://amentum.dejobs.org/jobs?q=&location=Washington": [],
   "https://careers.akima.com/jobs?lang=en-us&location=Joint%20Base%20Lewis%20McChord%2C%20WA": [],
   "https://www.wurl.com/careers": [],
   "ai-search:connected-devices-smart-tv-stb": [
