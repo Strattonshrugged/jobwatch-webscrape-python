@@ -16,7 +16,6 @@
     "QA Engineer"
   ],
   "https://careers.thetradedesk.com/jobs?region=americas": [
-    "Marketplace Quality Manager",
     "The latest jobs for\u00a0you"
   ],
   "https://cerence.wd5.myworkdayjobs.com/Cerence": [],
@@ -68,17 +67,9 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "Help craft the next generation of capabilities leveraging Apple location and spatial awareness technologies.  Our team focuses on innovating, building, and productizing new ways for our devices to be spatially aware of each other, coupling different sensing technologies with sophisticated algorithms and AI/ML to enable new and more intuitive forms of interaction. We nurture new ideas from prototype to production, helping to establish hardware requirements and system design, conduct developmental testing, write production software, and track our results relative to physical and theoretical ...",
-    "Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. The Internet Technologies QA & Ops team is seeking an experienced and passionate software Quality Engineer to be part of the regression defense team. Our teams design and engineers the communication cornerstones of iOS, macOS, tvOS, watchOS and visionOS for: Phone, Facetime and Contacts applications. We're looking for critical thinkers to play a key role q...",
+    "Help craft the next generation of capabilities leveraging Apple location and spatial awareness technologies.  Our team focuses on innovating, building, and productizing new ways for our devices to be spatially aware of each other, coupling different sensing technologies with sophisticated algorithms and AI/ML to enable new and more intuitive forms of interaction. We nurture new ideas from prototype to production, helping to establish hardware requirements and system design, conduct developmental testing, write production software, and track our results relative to physical and theoretical l...",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-    "Sneaky Sasquatch, one of Apple Arcade's most beloved original games, is a wholesome, open-world sandbox that has captured the hearts of millions of players across every age group. With a devoted fanbase and a universe full of untapped creative potential, Apple is building a team to carry Sneaky Sasquatch into its most ambitious and expansive chapter yet.",
-    "Software Development Engineer in Test (SDET), Creative Apps",
-    "Software Development Engineer in Test (SDET), Creative Apps 200692290-0836",
-    "Software Quality Automation Engineer - Phone, FaceTime and Contacts",
-    "Software Quality Automation Engineer - Phone, FaceTime and Contacts 200673871-3543",
-    "We are looking for a Sr. Game Artist whose style and sensibility are right at home in the world of Sneaky Sasquatch, and who takes pride in building great art. This is a hands-on, individual contributor role on a small, focused team with a...",
-    "What if your automation code was the last line of defense before a feature reached a billion devices? This role sits at the convergence of engineering rigor and product quality across Apple's iOS and macOS platforms \u2014 where the frameworks you build determine whether releases ship with confidence or not. The team operates end-to-end across the SDLC, and the bar for what 'good' looks like here resets what you thought quality engineering could be.",
-    "world rely on to manage builds, run tests in parallel, distribute to testers, and act on"
+    "We are looking for an experienced software engineer to drive on-device development of our data collection tools, daemons, and related SPIs and services. The ideal candidate will have experience developing embedded system software with exceptional test coverage."
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
@@ -141,22 +132,24 @@
     "You\u2019ll be joining a team of smart, capable, helpful people that want you to succeed, our clients to be delighted, and our business to grow. QualityLogic invests in your training and improving your skills to help you become one of the best."
   ],
   "https://noriginmedia.com/careers/": [
-    "Norigin Media is looking for an Android & iOS Developer in Oslo to build and maintain high-quality streaming apps with Kotlin and Swift for broadcasters and operators.",
+    "Norigin Media is looking for an Android & iOS Developer in Oslo to build and maintain high-quality streaming apps with Kotlin and Swift for broadcasters and\u2026",
     "OTT Testing-aaS",
     "QA Engineer",
     "Quality Assurance/ Testing Intern",
     "Testing-aaS",
-    "We are expanding our team of frontend Java Script engineers in Oslo with a Junior Frontend Developer.  You will work with the latest technologies such as React across multiple interesting projects.",
-    "We are expanding our team of frontend Java Script engineers in our teams in Oslo, Spain and Romania who work with the latest technologies such as React across multiple interesting projects.",
-    "We are looking for a person who can create and execute manual testing of applications. The candidate should be able to see things from the end user\u2019s perspective and holistically think of the scenarios which can go wrong, and also develop tests to verify all those hard to find bugs and potential problems before they occur.",
-    "We are looking for an experienced QA Engineer with hands-on experience from testing client applications on a wide range of internet-connected devices and environments (mobile phones, tablets, Web, connected TVs, game consoles etc.) as well as an understanding of testing of server-side software and APIs."
+    "We are expanding our team of frontend Java Script engineers in Oslo with a Junior Frontend Developer.  You will work with the latest technologies such as\u2026",
+    "We are expanding our team of frontend Java Script engineers in our teams in Oslo, Spain and Romania who work with the latest technologies such as React\u2026",
+    "We are looking for a person who can create and execute manual testing of applications. The candidate should be able to see things from the end user\u2019s\u2026",
+    "We are looking for an experienced QA Engineer with hands-on experience from testing client applications on a wide range of internet-connected devices and\u2026"
   ],
   "https://fxdigital.uk/careers/": [
     "FX Digital is a London-based Connected TV-first and OTT app technology company, helping brands reach millions of new customers by building and launching premium quality CTV applications across Smart TVs, Set-Top-Boxes, gaming consoles, web and mobile devices.",
     "Mid-weight Quality Engineer Analyst"
   ],
   "https://circleci.com/careers/": [],
-  "https://careers.boozallen.com/careers/SearchJobs": [],
+  "https://careers.boozallen.com/careers/SearchJobs": [
+    "Software Quality Engineer, Senior"
+  ],
   "https://www.gdit.com/careers/search/": [],
   "https://careers.mantech.com/": [],
   "https://careers.caci.com/": [],
@@ -195,10 +188,11 @@
   "https://www.careers.peraton.com/search-jobs": [],
   "https://searchcareers.caci.com/careers?query=&location=Washington": [
     "Automation Engineer/Tester - Remote (Any State)",
+    "Data Test Engineer - Remote (Any State)",
     "HCM Test Automation & Quality Engineer - Remote (Any State)",
-    "Quality Engineer (U.S. Army Program Office) - Remote (Any State)",
     "SAP Software Test Engineer (FI/CO) - Remote (Any State)",
     "SAP Software Test Engineer - 999 REMOTE",
+    "Section 508 Compliance Test Engineer - Remote (Any State)",
     "ServiceNow Tester - Remote (Any State)"
   ],
   "https://www.accenture.com/us-en/careers/jobsearch": [],
