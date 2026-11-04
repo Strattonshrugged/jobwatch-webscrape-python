@@ -3,7 +3,9 @@
     "Hang on, just getting the latest stats...",
     "Latest"
   ],
-  "https://www.nbcunicareers.com/business/peacock": [],
+  "https://www.nbcunicareers.com/business/peacock": [
+    "Development QA Tester | Testeur QA en d\u00e9veloppement - Montreal"
+  ],
   "https://careers.paramount.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_customfield1=Technology&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=": [
     "Lead, Live Video Quality Engineer"
   ],
@@ -68,8 +70,7 @@
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
     "Help craft the next generation of capabilities leveraging Apple location and spatial awareness technologies.  Our team focuses on innovating, building, and productizing new ways for our devices to be spatially aware of each other, coupling different sensing technologies with sophisticated algorithms and AI/ML to enable new and more intuitive forms of interaction. We nurture new ideas from prototype to production, helping to establish hardware requirements and system design, conduct developmental testing, write production software, and track our results relative to physical and theoretical l...",
-    "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-    "We are looking for an experienced software engineer to drive on-device development of our data collection tools, daemons, and related SPIs and services. The ideal candidate will have experience developing embedded system software with exceptional test coverage."
+    "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability."
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
@@ -86,7 +87,7 @@
   ],
   "https://www.atlassian.com/company/careers/all-jobs": [
     "AI Researcher (PhD), 2027 Graduate Canada",
-    "AI Researcher, 2027 Graduate U.S.",
+    "AI Researcher (PhD), 2027 Graduate U.S.",
     "Data Engineer, 2027 Graduate U.S",
     "Data Scientist, 2027 Graduate U.S.",
     "Graduates",
@@ -108,7 +109,8 @@
   "https://careers.duolingo.com/": [
     "AI Research Engineer, New PhD Graduate  - New York, NY; Pittsburgh, PA",
     "Proctor Quality and Learning Manager, Scaling Operations - London, England",
-    "Proctor Quality and Learning Manager, Scaling Operations - New York, NY; Pittsburgh, PA"
+    "Proctor Quality and Learning Manager, Scaling Operations - New York, NY; Pittsburgh, PA",
+    "QA Specialist I, Recent Graduate - New York, NY; Pittsburgh, PA"
   ],
   "https://careers.datadoghq.com/all-jobs/": [
     "Continuous Testing",
@@ -121,15 +123,51 @@
   ],
   "https://www.ptw.com/careers": [],
   "https://www.qualitylogic.com/about/careers/": [
-    "Jobs at QualityLogic | QualityLogic Careers",
+    "API Testing",
+    "Agile QA",
+    "Auditing and Testing",
+    "CCS Interoperability Testing Workshop",
+    "CSIP Australia Test Tools & Services",
+    "Careers - QualityLogic",
+    "Certification Test Labs",
+    "Copyright QualityLogic 2026. All Rights Reserved",
+    "EN 50549 Test Tools",
+    "EV Infrastructure Test Tools",
+    "Fax & Fax Over IP Testing",
+    "Fax Test Tools",
+    "Full-Service QA Testing Team",
+    "IEC 61850 Test Tools",
+    "IEEE 1547.1 Test Tools",
+    "IEEE 2030.5 Test Tools",
+    "Interoperability Testing",
     "Life can take some unexpected turns. QualityLogic provides life insurance, short- and long-term disability, and an employee assistance program at no cost to you to help you and your family.",
-    "Maybe you have Silicon Valley skills. Or maybe you\u2019re looking to break into the tech industry and grow your skills. Either way, you're a perfect candidate to join our team of Quality Assurance and Digital Accessibility experts.",
-    "QualityLogic",
+    "Load & Performance Testing",
+    "Manual & Functional Testing",
+    "Maybe you have Silicon Valley skills. Or maybe you\u2019re looking to break into the tech industry and grow your skills. Either way, you\u2019re a perfect candidate to join our team of Quality Assurance and Digital Accessibility experts.",
+    "OpenADR Test Tools",
+    "Printer & MFP Test Suites Store",
+    "Printer and PDL Test Tools",
     "QualityLogic complies with Federal Transparency in Coverage regulations by providing this link to machine readable files related to the health plans offered to our employees. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data including negotiated service rates, and out-of-network allowed amounts between health plans and healthcare providers.",
+    "Smart Energy Test Tools",
+    "Software Testing & QA",
+    "Software Testing Careers",
     "Some of the country\u2019s foremost software testing experts bring their best abilities to our world-class testing labs in Boise, ID, Oklahoma City, OK, and Simi Valley, CA \u2013 picturesque cities where life is less stressful. Team members truly enjoy a job that rewards their unique skills while being surrounded by down-to-earth, friendly people. QualityLogic also offers the opportunity to be involved in groundbreaking technologies for some of the most innovative companies in the world.",
-    "We want to help you reach your retirement goals. That\u2019s why QualityLogic provides a 401(k) savings plan and matches your 401(k) contributions.",
+    "SunSpec Modbus Test Suite and Training",
+    "Test & Technology Training",
+    "Test Automation",
+    "Testing Services",
+    "Usability Testing",
+    "V2G-AC EVSE Testing",
+    "V2G-AC Testing",
+    "V2G-AC Vehicle Testing",
+    "V2G-DC Testing",
+    "Virtual and Augmented Reality Testing",
+    "What QA Clients Say",
+    "Why QualityLogic",
     "Your success drives our success. So, when QualityLogic does well, employees are rewarded with quarterly bonuses.",
-    "You\u2019ll be joining a team of smart, capable, helpful people that want you to succeed, our clients to be delighted, and our business to grow. QualityLogic invests in your training and improving your skills to help you become one of the best."
+    "You\u2019ll be joining a team of smart, capable, helpful people that want you to succeed, our clients to be delighted, and our business to grow. QualityLogic invests in your training and improving your skills to help you become one of the best.",
+    "careers@qualitylogic.com",
+    "info@qualitylogic.com"
   ],
   "https://noriginmedia.com/careers/": [
     "Norigin Media is looking for an Android & iOS Developer in Oslo to build and maintain high-quality streaming apps with Kotlin and Swift for broadcasters and\u2026",
@@ -188,6 +226,7 @@
   "https://www.careers.peraton.com/search-jobs": [],
   "https://searchcareers.caci.com/careers?query=&location=Washington": [
     "Automation Engineer/Tester - Remote (Any State)",
+    "CCARS / Document Management Software Test Engineer - Remote (Any State)",
     "Data Test Engineer - Remote (Any State)",
     "HCM Test Automation & Quality Engineer - Remote (Any State)",
     "SAP Software Test Engineer (FI/CO) - Remote (Any State)",
