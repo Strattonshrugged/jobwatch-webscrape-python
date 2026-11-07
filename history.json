@@ -35,9 +35,7 @@
     "Browse our internships, apprenticeships, and new graduate"
   ],
   "https://careers.paramount.com/go/Pluto/8710500/": [],
-  "https://careers.paramount.com/go/Showtime/8710300/": [
-    "Manager, Software QA Engineering, Client Apps"
-  ],
+  "https://careers.paramount.com/go/Showtime/8710300/": [],
   "https://www.amcnetworks.com/careers/": [],
   "https://www.disneycareers.com/en/search-jobs": [
     "Disney Internships offer students and recent graduates the opportunity to work on Emmy Award-winning shows, create beloved films, and assist in projects that reach sports fans and guests worldwide.",
@@ -69,9 +67,21 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
+    "AI Software Evaluation Engineer, Siri AI Quality",
+    "AI Software Evaluation Engineer, Siri AI Quality 200693908-0836",
+    "Apple's Siri AI Quality team is looking for a passionate and skilled AI Software Evaluation Engineer to join our mission of delivering the highest-quality AI experiences to millions of users worldwide. We own the end-to-end Siri pre-ship evaluation dataset and the synthetic personas that power it. In this role, you will combine agentic engineering, data analytics and AI evaluation experience to help us catch quality issues early, automate repetitive eval operations, and...",
     "Do you want to help deliver the next amazing Apple product? As a Software Engineer on the Apple Watch Safety & Communications team, you\u2019ll bring your top notch engineering skills and eye for quality to help deliver a peace of mind, reliable, and expertly-polished out-of-box-experience for every Apple Watch user. This role is perfect for a collaborative engineer w...",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-    "The Spatial Intelligence Experiences team is looking for a senior software engineer to own and drive application and experience development in the novel intersection of Spatial Computing and Generative AI. You will leverage the latest features in the Apple Intelligence stack, pitch new ideas via prototyping, and ship highly polished user-facing features in places like Siri AI and Image Playground. With a sharp focus on reimagining AI features to bring unique value to the spatial environment, you will also work across Apple\u2019s device ecosystem (iOS, macOS, iPadOS), collaborate with engineerin..."
+    "Machine Learning Engineer, AI/ML Model Quality",
+    "Machine Learning Engineer, AI/ML Model Quality 200667346-0157",
+    "Machine Learning Engineer, AI/ML Model Quality 200667346-0836",
+    "Machine Learning Engineer, AI/ML Model Quality 200667346-2459",
+    "Machine Learning Engineer, AI/ML Model Quality 200667346-3543",
+    "Machine Learning Engineer, Evaluation and Quality, Creativity Apps",
+    "Machine Learning Engineer, Evaluation and Quality, Creativity Apps 200693920-3350",
+    "The Creativity Apps team is looking for a Machine Learning Engineer focused on the quality and evaluation of ML models and AI features in our creativity applications. You will define how we measure whether the product and AI features are good enough to ship: designing the evaluation strategy and metrics, building the datasets and infrastructure behind them,...",
+    "The Spatial Intelligence Experiences team is looking for a senior software engineer to own and drive application and experience development in the novel intersection of Spatial Computing and Generative AI. You will leverage the latest features in the Apple Intelligence stack, pitch new ideas via prototyping, and ship highly polished user-facing features in places like Siri AI and Image Playground. With a sharp focus on reimagining AI features to bring unique value to the spatial environment, you will also work across Apple\u2019s device ecosystem (iOS, macOS, iPadOS), collaborate with engineerin...",
+    "We are defining what exceptional data quality looks like for machine learning across Wallet, Payments, and Commerce. As a Machine Learning Engineer, AI/ML Model Quality, you will build and maintain intelligent systems, validation frameworks, synthetic data generation models and monitoring pipelines that keep our data ecosystem h..."
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
