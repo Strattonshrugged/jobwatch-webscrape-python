@@ -69,8 +69,8 @@
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
     "AI Software Evaluation Engineer, Siri AI Quality",
     "AI Software Evaluation Engineer, Siri AI Quality 200693908-0836",
+    "Apple Intelligence is changing how customers around the world use their devices, and the new Siri is central to that. As an Engineering Manager on the Siri team, you will lead the engineers building the Siri app across iOS and macOS, and bring new Siri AI capabilities to the whole operating system. We're looking for a hands-on technical leader who raises the bar for engineering quality and helps set Siri's direction.",
     "Apple's Siri AI Quality team is looking for a passionate and skilled AI Software Evaluation Engineer to join our mission of delivering the highest-quality AI experiences to millions of users worldwide. We own the end-to-end Siri pre-ship evaluation dataset and the synthetic personas that power it. In this role, you will combine agentic engineering, data analytics and AI evaluation experience to help us catch quality issues early, automate repetitive eval operations, and...",
-    "Do you want to help deliver the next amazing Apple product? As a Software Engineer on the Apple Watch Safety & Communications team, you\u2019ll bring your top notch engineering skills and eye for quality to help deliver a peace of mind, reliable, and expertly-polished out-of-box-experience for every Apple Watch user. This role is perfect for a collaborative engineer w...",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
     "Machine Learning Engineer, AI/ML Model Quality",
     "Machine Learning Engineer, AI/ML Model Quality 200667346-0157",
@@ -80,6 +80,7 @@
     "Machine Learning Engineer, Evaluation and Quality, Creativity Apps",
     "Machine Learning Engineer, Evaluation and Quality, Creativity Apps 200693920-3350",
     "The Creativity Apps team is looking for a Machine Learning Engineer focused on the quality and evaluation of ML models and AI features in our creativity applications. You will define how we measure whether the product and AI features are good enough to ship: designing the evaluation strategy and metrics, building the datasets and infrastructure behind them,...",
+    "The IS&T Product Engineering Systems group is seeking a PLM System Architect who has a proven track record in designing and developing high quality enterprise software solutions! Our group is responsible for implementing and managing groundbreaking applications including Product Lifecycle Management (PLM) and Enterprise Data Services (EDS) to manage Product Information for Apple's Hardware and Software product development and innovation.",
     "The Spatial Intelligence Experiences team is looking for a senior software engineer to own and drive application and experience development in the novel intersection of Spatial Computing and Generative AI. You will leverage the latest features in the Apple Intelligence stack, pitch new ideas via prototyping, and ship highly polished user-facing features in places like Siri AI and Image Playground. With a sharp focus on reimagining AI features to bring unique value to the spatial environment, you will also work across Apple\u2019s device ecosystem (iOS, macOS, iPadOS), collaborate with engineerin...",
     "We are defining what exceptional data quality looks like for machine learning across Wallet, Payments, and Commerce. As a Machine Learning Engineer, AI/ML Model Quality, you will build and maintain intelligent systems, validation frameworks, synthetic data generation models and monitoring pipelines that keep our data ecosystem h..."
   ],
@@ -91,10 +92,9 @@
     "Explore the latest news and insights."
   ],
   "https://www.shopify.com/careers/disciplines/engineering-data": [
-    "Read the latest engineering blog",
-    "Shopify offers 4-month paid Engineering internships that are open to students, recent graduates, and those early in their careers.",
-    "Shopify's 6-month Design Apprentice Program pairs early-career designers with senior mentors through two rotations. Built for new graduates, career switchers, and those early in their design careers.",
-    "They use AI like a keyboard, reflexively and everywhere, to clear the mundane and make room for thinking. And they work in the open. The fastest way to learn here is to watch someone better than you do the work."
+    "Earn while you learn, graduating with a computer science degree, 3,800+ hours of hands-on Shopify development experience, and zero student debt.",
+    "Guide and challenge the teams that turn 1st-party and 3rd-party data into influential product development. Own data quality, unearth problems, and push the pace of scaleable solutions.",
+    "Lead multidisciplinary teams to manage the entire product lifecycle. Align vision, knowledge, and direction with Shopify's goals to elevate product quality and exceed customer expectations."
   ],
   "https://www.atlassian.com/company/careers/all-jobs": [
     "AI Researcher (PhD), 2027 Graduate Canada",
@@ -141,6 +141,8 @@
     "CSIP Australia Test Tools & Services",
     "Careers - QualityLogic",
     "Certification Test Labs",
+    "Compliance Test Engineer",
+    "Compliance Test Technician",
     "Copyright QualityLogic 2026. All Rights Reserved",
     "EN 50549 Test Tools",
     "EV Infrastructure Test Tools",
@@ -198,7 +200,9 @@
   "https://circleci.com/careers/": [],
   "https://careers.boozallen.com/careers/SearchJobs": [],
   "https://www.gdit.com/careers/search/": [],
-  "https://careers.mantech.com/": [],
+  "https://careers.mantech.com/": [
+    "Quality Assurance Technician"
+  ],
   "https://careers.caci.com/": [],
   "https://www.accenture.com/us-en/careers/local/federal-careers": [
     "Industry Analyst Recognition",
